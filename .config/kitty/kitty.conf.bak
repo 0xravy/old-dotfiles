@@ -10,11 +10,11 @@ cursor_shape     block
 url_style        dotted
 #Close the terminal without confirmation
 confirm_os_window_close 0
-background_opacity 1
+background_opacity 0.8
 window_padding_width 4
 
 
 # BEGIN_KITTY_THEME
-# Space Gray Eighties
+# Black Metal
 include current-theme.conf
 # END_KITTY_THEME

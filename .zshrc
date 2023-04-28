@@ -135,6 +135,7 @@ alias b="btop --utf-force"
 alias r="ranger"
 alias v="vim"
 alias n="nvim"
+alias t="tmux"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
