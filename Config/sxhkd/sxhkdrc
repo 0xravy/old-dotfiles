@@ -1,0 +1,18 @@
+super + Return
+    $TERMINAL
+
+super + w
+    $BROWSER
+
+super + e
+    $FILES
+
+super + c
+    $SEARCH
+
+super + v
+    $EDITOR
+
+super + shift + q
+    pkill -KILL dwm
+
